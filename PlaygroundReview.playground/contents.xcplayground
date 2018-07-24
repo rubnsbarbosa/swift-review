@@ -3,5 +3,6 @@
     <pages>
         <page name='Class'/>
         <page name='Heranca'/>
+        <page name='Encapsulamento'/>
     </pages>
 </playground>
